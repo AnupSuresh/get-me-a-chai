@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.startTemplate {
+   @apply bg-slate-900 text-white flex items-center px-10 h-16
+}
